@@ -1,0 +1,199 @@
+{
+    "bikes": [
+        {
+            "id": 1,
+            "name": "ZX3000",
+            "category": "All-terrain",
+            "wheel_size": 26.0,
+            "price": 732.0,
+            "pictures": [
+                "https://pictures.ssg-service.com/179/1799374_original_1.jpg",
+                "https://pictures.ssg-service.com/179/1799374_original_1.jpg"
+            ],
+            "brand": "SCOTT",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 2,
+            "name": "Spark 40",
+            "category": "Mointain-bike",
+            "wheel_size": 27.5,
+            "price": 1500.0,
+            "pictures": [
+                "https://cdn.bike24.net/i/mb/00/b9/74/280502-scott-spark-rc-900-907248.jpg",
+                "https://cdn.bike24.net/i/mb/00/b9/74/280502-scott-spark-rc-900-907248.jpg"
+            ],
+            "brand": "SCOTT",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 4,
+            "name": "RX800",
+            "category": "Race",
+            "wheel_size": 700.0,
+            "price": 900.0,
+            "pictures": [
+                "https://cdn.bike24.net/i/mb/bb/2e/18/348952-00-d-744888.jpg",
+                "https://cdn.bike24.net/i/mb/bb/2e/18/348952-00-d-744888.jpg"
+            ],
+            "brand": "SCOTT",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 5,
+            "name": "S-l640",
+            "category": "Enduro",
+            "wheel_size": 26.0,
+            "price": 1450.0,
+            "pictures": [
+                "https://i.ebayimg.com/images/g/3ckAAOSwCOheIIve/s-l640.jpg",
+                "https://i.ebayimg.com/images/g/3ckAAOSwCOheIIve/s-l640.jpg"
+            ],
+            "brand": "SCOTT",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 6,
+            "name": "DX10",
+            "category": "Downhill",
+            "wheel_size": 26.0,
+            "price": 2200.0,
+            "pictures": [
+                "https://i.pinimg.com/originals/2e/c9/76/2ec9764125b3b2bfb7b5f6d3cb5b0468.png",
+                "https://i.pinimg.com/originals/2e/c9/76/2ec9764125b3b2bfb7b5f6d3cb5b0468.png"
+            ],
+            "brand": "SCOTT",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 7,
+            "name": "M20_24U",
+            "category": "Dirt",
+            "wheel_size": 24.0,
+            "price": 400.0,
+            "pictures": [
+                "https://cdn.shopify.com/s/files/1/0074/5432/6862/products/M20_24U_TitleElitePro24-BLK_PD_900x600_aa1bbc89-4b15-4451-87d1-e4fedf1470e5_1200x630.png",
+                "https://cdn.shopify.com/s/files/1/0074/5432/6862/products/M20_24U_TitleElitePro24-BLK_PD_900x600_aa1bbc89-4b15-4451-87d1-e4fedf1470e5_1200x630.png"
+            ],
+            "brand": "Mongoose",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 8,
+            "name": "BX50",
+            "category": "BMX",
+            "wheel_size": 18.0,
+            "price": 230.0,
+            "pictures": [
+                "https://target.scene7.com/is/image/Target/GUEST_b37fca1e-e99a-4bed-834f-af1cbac038a9",
+                "https://target.scene7.com/is/image/Target/GUEST_b37fca1e-e99a-4bed-834f-af1cbac038a9"
+            ],
+            "brand": "Mongoose",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 9,
+            "name": "M700",
+            "category": "All-terrain",
+            "wheel_size": 26.0,
+            "price": 700.0,
+            "pictures": [
+                "https://www.evanscycles.com/images/products/91770812_l.jpg",
+                "https://www.evanscycles.com/images/products/91770812_l.jpg"
+            ],
+            "brand": "Mongoose",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 10,
+            "name": "AC_SY450",
+            "category": "BMX",
+            "wheel_size": 18.0,
+            "price": 300.0,
+            "pictures": [
+                "https://images-na.ssl-images-amazon.com/images/I/810AaNfHu5L._AC_SY450_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/810AaNfHu5L._AC_SY450_.jpg"
+            ],
+            "brand": "Mongoose",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 11,
+            "name": "AC_SL1500",
+            "category": "Fat-bike",
+            "wheel_size": 24.0,
+            "price": 650.0,
+            "pictures": [
+                "https://www.bikeride.com/images/bike/81nBCFUfFhL._AC_SL1500_.jpg",
+                "https://www.bikeride.com/images/bike/81nBCFUfFhL._AC_SL1500_.jpg"
+            ],
+            "brand": "Mongoose",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 13,
+            "name": "Epic-pro-carb-800",
+            "category": "Mointain-bike",
+            "wheel_size": 26.0,
+            "price": 1200.0,
+            "pictures": [
+                "https://ibkbike.com/img/cms/epic-pro-carb-800.jpg",
+                "https://ibkbike.com/img/cms/epic-pro-carb-800.jpg"
+            ],
+            "brand": "SPECIALIZED",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 14,
+            "name": "CreoSL-Expert-1000",
+            "category": "E-Bike",
+            "wheel_size": 700.0,
+            "price": 1400.0,
+            "pictures": [
+                "https://ibkbike.com/img/cms/CreoSL-Expert-1000.jpg",
+                "https://ibkbike.com/img/cms/CreoSL-Expert-1000.jpg"
+            ],
+            "brand": "SPECIALIZED",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 15,
+            "name": "Diverge-Evo-800",
+            "category": "Race",
+            "wheel_size": 29.0,
+            "price": 800.0,
+            "pictures": [
+                "https://ibkbike.com/img/cms/Diverge-Evo-800.jpg",
+                "https://ibkbike.com/img/cms/Diverge-Evo-800.jpg"
+            ],
+            "brand": "SPECIALIZED",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 17,
+            "name": "D900",
+            "category": "Downhill",
+            "wheel_size": 26.0,
+            "price": 1600.0,
+            "pictures": [
+                "https://ibkbike.com/img/cms/Demo-900.jpg",
+                "https://ibkbike.com/img/cms/Demo-900.jpg"
+            ],
+            "brand": "SPECIALIZED",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        },
+        {
+            "id": 18,
+            "name": "Turbo-levo-800c2-compressor",
+            "category": "E-Bike",
+            "wheel_size": 27.5,
+            "price": 1700.0,
+            "pictures": [
+                "https://ibkbike.com/img/cms/turbo-levo-800c2-compressor.jpg",
+                "https://ibkbike.com/img/cms/turbo-levo-800c2-compressor.jpg"
+            ],
+            "brand": "SPECIALIZED",
+            "details": "A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel."
+        }
+    ]
+}
